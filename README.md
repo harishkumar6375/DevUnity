@@ -8,8 +8,8 @@ A Collaboration focused coding platform.
 [![Profile](./images/profile.png)](https://devunity.netlify.app/)
 [![Description](./images/desc.png)](https://devunity.netlify.app/)
 [![Editor](./images/editor.png)](https://devunity.netlify.app/)
-<br/>
 
+<br/>
 ![ReactJS](https://img.shields.io/badge/React.js-blue?style=for-the-badge&logo=react&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-yellow?style=for-the-badge&logo=Vite&logoColor=white)
 ![ThreeJS](https://img.shields.io/badge/three-js?style=for-the-badge&logo=three.js&logoColor=white)
